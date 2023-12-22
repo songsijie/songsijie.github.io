@@ -42,7 +42,7 @@ export default {
         },
         // 字符串 - 页面文件路径
         {
-            text: '2',
+            text: 'git',
             link:'2.md'
         },
       ],
