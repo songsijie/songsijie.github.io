@@ -1,0 +1,16 @@
+{
+  "name": "vuepress2_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "songsijie <3371982703@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "test": "^3.3.0",
+    "vuepress": "^2.0.0-rc.0",
+    "vuepress-plugin-reading-time2": "^2.0.0-rc.5"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs --open ",
+    "build": "vuepress build docs"
+  }
+}
